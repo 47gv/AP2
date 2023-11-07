@@ -6,4 +6,4 @@
 - Eduarda Demori
 - Maria Clara Vincler
 - Sofia Mathias
-- Clara 
+- Clara Pires
